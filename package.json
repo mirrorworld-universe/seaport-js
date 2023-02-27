@@ -1,6 +1,6 @@
 {
   "name": "@mirrorworld/seaport-js",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "description": "seaport fork",
   "license": "MIT",
   "main": "lib/index.js",
